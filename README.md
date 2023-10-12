@@ -7,6 +7,9 @@ I will create (and try to keep it organized) many code snippets and show what th
 
 I used to work with R, so I kinda got used to the way you code with dplyr and the pipe operator. I will bring some code snippets in python for those in similar situation.
 
+## Select and filter
+[Data filtering in Pandas](https://towardsdatascience.com/filtering-data-frames-in-pandas-b570b1f834b9)
+
 ## Groupby
 Groupby operations in R are very easy to do. The combination of group_by and summari(z|s)e in R makes it very simple to do very complex groupby operations. You can also use the combination of gorup_by and mutate to broadcast grouped calculations to every row, like, for example, the total of that category, or the max etc. 
 
